@@ -12,7 +12,7 @@ The project demonstrates object-oriented programming concepts such as inheritanc
 - Create multiple characters in one session  
 - Input validation for user choices  
 - Object-oriented design (inheritance & polymorphism)   Memory management:
-  - Dynamically allocated objects are properly deleted
+- Dynamically allocated objects are properly deleted
 
 ## How to Run
 1. Compile the program:
