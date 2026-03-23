@@ -13,8 +13,13 @@ This is a console-based RPG game where players can choose different character cl
 - Console-based gameplay
 
 ## How to Run
-
 1. Compile the program:
+
+
 g++ main.cpp player.cpp -o rpg
+
+
 2. Run the program:
+
+
 ./rpg
