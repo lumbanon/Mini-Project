@@ -1,6 +1,6 @@
 # RPG Game (C++)
 
-This repository contains a simple RPG game written in C++.
+This repository contains a simple Role-Playing Game(RPG) game written in C++.
 
 ## Description
 
