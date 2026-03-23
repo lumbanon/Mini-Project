@@ -1,8 +1,8 @@
-#🧙 RPG Game (C++)
+#RPG Game (C++)
 
 This repository contains a simple console-based RPG (Role-Playing Game) written in C++. The game allows players to choose different character classes and engage in basic gameplay mechanics such as combat and character interaction.
 
-#📖 Description
+#Description
 
 This project is a basic RPG system implemented in C++ using object-oriented programming concepts. Players can select from multiple classes such as Warrior, Mage, and Priest, each with unique attributes and abilities.
 
