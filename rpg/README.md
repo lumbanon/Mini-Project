@@ -29,17 +29,3 @@ rpg/
 ├── warrior.h       # Warrior class
 ├── mage.h          # Mage class
 ├── priest.h        # Priest class
-⚙️ How to Compile and Run
-1. Compile the program
-g++ main.cpp player.cpp -o rpg
-
-If you have additional .cpp files, include them as well:
-
-g++ main.cpp player.cpp warrior.cpp mage.cpp priest.cpp -o rpg
-2. Run the program
-./rpg
-🧠 Concepts Used
-Object-Oriented Programming (OOP)
-Inheritance and virtual functions
-Header and source file separation
-Basic game loop design
