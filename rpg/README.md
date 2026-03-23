@@ -1,3 +1,7 @@
+# RPG Game (C++)
+
+This repository contains a simple RPG game written in C++.
+
 ## Description
 
 This is a console-based RPG game where players can create characters by choosing a name, race, and class. Each class has its own unique attack style, and the program displays the character’s details after creation.
