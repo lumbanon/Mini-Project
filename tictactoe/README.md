@@ -21,9 +21,10 @@ The project demonstrates fundamental programming concepts such as arrays, functi
 ## How to Run
 
 1. Compile the program:
-
+```bash
 g++ tictactoe.cpp -o tictactoe
-
+```
 2. Run the program:
-
+```bash
 ./tictactoe
+```
