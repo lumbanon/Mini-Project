@@ -21,11 +21,12 @@ The project demonstrates object-oriented programming concepts such as inheritanc
 ## How to Run
 1. Compile the program:
 
-
+```bash
 g++ main.cpp player.cpp -o rpg
-
+```
 
 2. Run the program:
 
-
+```bash
 ./rpg
+```
