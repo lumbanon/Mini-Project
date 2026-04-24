@@ -29,11 +29,11 @@ The project demonstrates basic Python programming concepts such as **GUI develop
 
 ```bash
 pip install pandas
-Run the program:
+2. Run the program:
 python main.py
 Custom Language
 
-You can use any language by editing the CSV file:
+3. You can use any language by editing the CSV file:
 
 data/bulgarian_words.csv
 
