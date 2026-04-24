@@ -26,11 +26,11 @@ The project demonstrates basic Python programming concepts such as **GUI develop
 ## **How to Run**
 
 1. Install dependencies:
-
 ```bash
 pip install pandas
 
 2. Run the program:
+```markdown
 ```bash
 python main.py
 
