@@ -36,14 +36,14 @@ python main.py
 ```
 ## **Custom Language**
 3. You can use any language by editing the CSV file:
-
+```bash
 data/bulgarian_words.csv
-
+```
 Example format:
-
+```bash
 Bulgarian,English
 Hola,Hello
 Bonjour,Hello
 你好,Hello
-
+```
 Note: Make sure the column names match the ones used in the code.
