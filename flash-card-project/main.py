@@ -37,8 +37,8 @@ def flip_card():
 
 card_front_image=PhotoImage(file="images/card_front.png")
 old_image=canvas.create_image(400, 263, image=card_front_image)
-title_text=canvas.create_text(400,150,text="",font=("Ariel",40,"italic"))
-word_text=canvas.create_text(400,263,text="",font=("Ariel",60,"bold"))
+title_text=canvas.create_text(400,150,text="",font=("Ariel",40,"italic"),width=700)
+word_text=canvas.create_text(400,263,text="",font=("Ariel",60,"bold"),width=700)
 canvas.grid(row=0, column=0,columnspan=2)
 canvas.config(bg=BACKGROUND_COLOR)
 correct_image=PhotoImage(file="images/right.png")
